@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Banner.png" alt="Banner de bienvenida" width="100%">
+</p>
+
+
 # 👋 ¡Hola! Soy Brenda Paola Ramírez
 
 Bióloga con formación doctoral en Ciencias en Recursos Acuáticos y actualmente en transición hacia el desarrollo y análisis de datos con Python. Combino mi experiencia en investigación científica con herramientas modernas de programación para resolver problemas de manera creativa y basada en evidencia.
