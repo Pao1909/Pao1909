@@ -5,13 +5,13 @@
 
 # 👋 ¡Hola! Soy Brenda Paola Ramírez
 
-Bióloga con formación doctoral en Ciencias en Recursos Acuáticos y actualmente en transición hacia el desarrollo y análisis de datos con Python. Combino mi experiencia en investigación científica con herramientas modernas de programación para resolver problemas de manera creativa y basada en evidencia.
+Científica de datos con experiencia en análisis estadístico, programación en Python y visualización de datos. Mi formación doctoral en Ciencias en Recursos Acuáticos me permite combinar un enfoque científico riguroso con herramientas modernas de programación para generar soluciones basadas en evidencia.
 
 ## 🧪 Sobre mí
 
-- 🎓 PhD en Ciencias en Recursos Acuáticos  
-- 🐍 Apasionada por la ciencia de datos, el análisis estadístico y la visualización  
-- 💻 Completé un bootcamp intensivo de Data Science en TripleTen  
+- 💻 Completé un bootcamp intensivo de Data Science en TripleTen 
+- 🐍 Manejo de Python, R y SQL para análisis, modelado y visualización de datos  
+- 🔬 7 años de experiencia en investigación científica, con publicaciones académicas
 - 🔬 Me interesa aplicar soluciones de datos en proyectos relacionados con medio ambiente, ciencia abierta y tecnología
 
 ## 🛠️ Tecnologías y Herramientas
