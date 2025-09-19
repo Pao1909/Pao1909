@@ -3,7 +3,7 @@
 </p>
 
 
-# 👋 ¡Hola! Soy Brenda Paola Ramírez
+# 👋 ¡Hola! Soy Brenda Paola Ramírez Santana
 
 Científica de datos con experiencia en análisis estadístico, programación en Python y visualización de datos. Mi formación doctoral en Ciencias en Recursos Acuáticos me permite combinar un enfoque científico riguroso con herramientas modernas de programación para generar soluciones basadas en evidencia.
 
